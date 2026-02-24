@@ -11,6 +11,9 @@ I'm **Nisuel/News**
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Nisuel4125/Nisuel4125/output/github-contribution-grid-snake.svg">
 </picture>
 
+<img alt="Count" src="https://count.getloli.com/@github-WenHao2130?theme=minecraft" width="500">
+****
+
 
 <!--
 **Nisuel4125/Nisuel4125** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
