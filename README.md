@@ -4,6 +4,8 @@ I'm **Nisuel/News**
 
 
 <img alt="Nisuel4125's GitHub Stats" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Nisuel4125&include_all_commits=true" width="500">
+
+ <img src="https://cdn.jsdelivr.net/gh/Nisuel4125/Nisuel4125/assets/images/coding.gif" />
 <!--
 **Nisuel4125/Nisuel4125** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
