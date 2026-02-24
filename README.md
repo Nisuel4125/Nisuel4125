@@ -1,5 +1,6 @@
 ## Hi there 👋
-<div align="center"> <img src="https://metrics.lecoq.io/Nisuel4125?template=classic&config.timezone=Asia%2FShanghai"> </div>
+
+<div align="center"> <img src="https://activity-graph.herokuapp.com/graph?username=Nisuel4125&theme=xcode" /> </div>
 <!--
 **Nisuel4125/Nisuel4125** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
