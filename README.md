@@ -1,6 +1,9 @@
 ## Hi there 👋
 
-<div align="center"> <img src="https://activity-graph.herokuapp.com/graph?username=Nisuel4125&theme=xcode" /> </div>
+I'm **Nisuel/News**
+
+
+<img alt="Nisuel4125's GitHub Stats" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Nisuel4125&include_all_commits=true" width="500">
 <!--
 **Nisuel4125/Nisuel4125** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
