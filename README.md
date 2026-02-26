@@ -11,8 +11,13 @@ I'm **Nisuel/News**
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Nisuel4125/Nisuel4125/output/github-contribution-grid-snake.svg">
 </picture>
 
-<img alt="Count" src="https://count.getloli.com/@github-WenHao2130?theme=minecraft" width="500">
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Nisuel4125-lab&theme=light&layout=compact)
+
+<img alt="Count" src="https://count.getloli.com/@github-Nisuel4125?theme=minecraft" width="500">
 ****
+
+
+
 
 
 <!--
