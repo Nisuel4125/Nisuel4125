@@ -1,8 +1,6 @@
 ## Hi there 👋
 
-I'm **Nisuel/News**
-
-
+I'm **Nisuel_News**
 
 
 <picture>
